@@ -375,6 +375,11 @@ nav .caret{
 	margin-top:10px;
 	margin-bottom:40px;
 }
+.h3{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-family: Helvetica;
+}
 img.mg-sm,img.mg-md,img.mg-lg{
 	margin-top: 0;
 }
